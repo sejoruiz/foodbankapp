@@ -1,0 +1,9 @@
+{
+  "name": "FoodBankApp",
+  "description": "Aplicacion para reparto de comida sobrante",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "EquipoA"
+  },
+  "default_locale": "en"
+}
